@@ -8,7 +8,6 @@ function App() {
       <nav>
         <Sidebar/>
       </nav>
-      <Xutton/>
       <main>
         <Main/>
       </main>
